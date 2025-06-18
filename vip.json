@@ -1,1 +1,10 @@
-{"vip_users":[{"id":"gfdrgg","month":"1","start_date":"2025-06-27"},{"id":"wewewe","month":"1","start_date":"2025-07-11"}]}
+{
+  "vip_users": [
+    {
+      "Name": "John Doe",
+      "Key": "abc123",
+      "Valid": true,
+      "Expiration": "2025-12-31"
+    }
+  ]
+}
